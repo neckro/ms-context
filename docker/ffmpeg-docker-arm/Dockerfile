@@ -78,7 +78,6 @@ RUN apt-get install -qy --no-install-recommends \
   libtheora-dev \
   libvorbis-dev \
   libvpx-dev \
-  libwavpack-dev \
   libx264-dev \
   libx265-dev \
   libxvidcore-dev \
@@ -142,7 +141,6 @@ apt-get install -qy --no-install-recommends \
   libvorbis0a \
   libvorbisenc2 \
   libvpx5 \
-  libwavpack1 \
   libwebpmux3 \
   libxml2 \
   libxvidcore4 \
