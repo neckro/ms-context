@@ -34,7 +34,6 @@
   --enable-libvorbis \
   --enable-libvpx \
   --enable-libzimg \
-  --enable-libwavpack \
   --enable-libwebp \
   --enable-libx264 \
   --enable-libx265 \

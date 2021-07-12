@@ -3,7 +3,7 @@ FROM balenalib/rpi-raspbian:buster AS base
 
 ENV INITSYSTEM on
 ENV BINDIR="/usr/local/bin"
-ENV FFMPEG_SRC_URL="https://github.com/jjustman/ffmpeg-hls-pts-discontinuity-reclock/archive/f46551d510573b3a132dba0c52adf19101e2223a.tar.gz"
+ENV FFMPEG_SRC_URL="https://github.com/neckro/FFmpeg/archive/910786b5de.tar.gz"
 ENV FFMPEG_SRC_DIR="/usr/local/src/ffmpeg"
 
 ENV DEBIAN_FRONTEND=noninteractive
